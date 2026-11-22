@@ -42,19 +42,21 @@ def count_streak(now):
 def update(n):
     stages = [(14,'adult','Adult'),(7,'young','Young dragon'),(1,'hatchling','Hatchling'),(0,'egg','Egg')]
     _,stage,label = next(row for row in stages if n >= row[0])
+    (ROOT/'assets/mascot.gif').write_bytes((ROOT/'dragon/mascots'/f'{stage}.gif').read_bytes())
     path = ROOT/'README.md'
     md = path.read_text()
     status = f"**{n}-day contribution streak** · {label}"
     future = next((k for k in (1,7,14) if k>n),None)
     if future:
         status += f" · Next stage at {future} days"
-    section = f"{START}\n{status}\n\n\n{END}"
+    section = f"{START}\n## Contribution streak\n\n{status}\n\n![My dragon above the clouds](assets/dragon.gif)\n{END}"
     if START in md or END in md:
         if md.count(START)!=1 or md.count(END)!=1 or md.index(START)>=md.index(END):
             raise ValueError('Check dragon section markers in README.md')
         md = md[:md.index(START)] + section + md[md.index(END)+len(END):]
     else:
-        md = section+'\n\n'+md
+        at = md.find('### 🌊 Beyond code')
+        md = md[:at]+section+'\n\n'+md[at:] if at>=0 else md.rstrip()+'\n\n'+section+'\n'
     (ROOT/'assets/dragon.gif').write_bytes((ROOT/'dragon/stages'/f'{stage}.gif').read_bytes())
     path.write_text(md)
 
