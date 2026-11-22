@@ -1,5 +1,5 @@
 <!-- elif-dragon:start -->
-<img src="assets/dragon.gif" width="540" alt="My dragon, current streak and contribution calendar">
+<img src="assets/dragon.gif" width="420" alt="A pixel dragon growing with my GitHub activity">
 <!-- elif-dragon:end -->
 
 # Hey, I'm Elif 👋
