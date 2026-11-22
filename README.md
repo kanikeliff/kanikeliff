@@ -1,4 +1,6 @@
-<img align="right" src="assets/mascot.gif" width="132" alt="My pixel dragon grows with my GitHub contribution streak" />
+<!-- elif-dragon:start -->
+<img src="assets/dragon.gif" width="540" alt="My dragon, current streak and contribution calendar">
+<!-- elif-dragon:end -->
 
 # Hey, I'm Elif 👋
 
@@ -50,14 +52,6 @@ Computer Science @ Binghamton University × Istanbul Technical University
 - **PortX** · AI intern — Validated 1,200+ labeled examples for document information extraction.
 - **Washington University in St. Louis** · Research contributor — CNNs, tabular-to-image transformations and explainability.
 - **ITU Graduate School** · Part-time — Web, campus television and AI projects.
-
-<!-- elif-dragon:start -->
-## Contribution streak
-
-**1-day contribution streak** · Hatchling · Next stage at 7 days
-
-![My dragon above the clouds](assets/dragon.gif)
-<!-- elif-dragon:end -->
 
 ---
 
