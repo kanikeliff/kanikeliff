@@ -1,7 +1,4 @@
-<!-- elif-dragon:start -->
-<img src="assets/dragon.gif" width="420" alt="A pixel dragon growing with my GitHub activity"><br>
-<img src="assets/calendar.svg" width="420" alt="GitHub contributions over the last 30 weeks">
-<!-- elif-dragon:end -->
+<img align="right" src="assets/adult-flight.gif" width="360" alt="Lavender dragon gliding closer and away across a night sky">
 
 # Hey, I'm Elif 👋
 
