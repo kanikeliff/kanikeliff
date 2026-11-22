@@ -48,14 +48,13 @@ def update(n):
     future = next((k for k in (1,7,14) if k>n),None)
     if future:
         status += f" · Next stage at {future} days"
-    section = f"{START}\n## Contribution streak\n\n{status}\n\n![My dragon above the clouds](assets/dragon.gif)\n{END}"
+    section = f"{START}\n{status}\n\n\n{END}"
     if START in md or END in md:
         if md.count(START)!=1 or md.count(END)!=1 or md.index(START)>=md.index(END):
             raise ValueError('Check dragon section markers in README.md')
         md = md[:md.index(START)] + section + md[md.index(END)+len(END):]
     else:
-        at = md.find('### 🌊 Beyond code')
-        md = md[:at]+section+'\n\n'+md[at:] if at>=0 else md.rstrip()+'\n\n'+section+'\n'
+        md = section+'\n\n'+md
     (ROOT/'assets/dragon.gif').write_bytes((ROOT/'dragon/stages'/f'{stage}.gif').read_bytes())
     path.write_text(md)
 
