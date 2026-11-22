@@ -1,42 +1,70 @@
-# Hi, I'm Elif 👋
+<h1 align="center">Hi, I'm Elif 👋</h1>
 
-I'm a computer science senior in the Binghamton University and Istanbul Technical University dual-degree program, graduating in May 2027. I build backend services and work on applied AI, from document processing and workflow automation to real-time computer vision.
+<p align="center">
+  <b>Backend + applied AI engineer.</b> I build the systems that hand work to AI models, and keep a human in the loop.<br/>
+  CS senior · Binghamton × Istanbul Technical University dual degree · May 2027
+</p>
 
-I'm looking for 2027 new-grad software engineering and AI/ML roles in the US.
+<p align="center">
+  <a href="https://www.linkedin.com/in/elifkanik101"><img src="https://img.shields.io/badge/LinkedIn-elifkanik101-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kanikelif10@gmail.com"><img src="https://img.shields.io/badge/Email-kanikelif10@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open_to-2027_new--grad_SWE_%2F_AI-a6d930"/>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/elifkanik101) · [Email](mailto:kanikelif10@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,postgres,docker,react,swift,pytorch,tensorflow,opencv&perline=12"/>
+</p>
 
-## Experience
+---
 
-**Mirabito Energy Products · Backend Intern**  
-I work on the Django REST Framework and PostgreSQL backend for a wholesale fuel billing portal. I implemented server-side transition rules for a nine-state billing workflow and integrated an external AI recommendation service with retry handling. The backend tracks each bill of lading from OCR through recommendation and human review, and records the reviewer’s decision.
+### 🛠️ Where I've worked
 
-**PortX · AI Intern**  
-I helped automate document processing with Llama 3.2, validated more than 1,200 labeled documents, and analyzed cases where key-information extraction failed. I also used PCA and t-SNE to visualize high-dimensional data and explore clustering patterns.
+| | |
+|---|---|
+| ⛽ **Mirabito Energy Products** · Backend Intern | Nine-state billing workflow + retry-safe AI integration · `Django REST` `PostgreSQL` |
+| 📦 **PortX** · AI Intern | 1,200+ documents validated for Llama 3.2 information extraction |
+| 🧠 **WashU St. Louis** · Research | Tabular data → images for CNNs, explainable AI on the results |
+| 🎓 **ITU Graduate School** · Part-time | Web, campus TV, and AI projects |
+| ☕ **Binghamton** · CS 210 Course Assistant | Helping students trace Java until the bug confesses |
 
-**Washington University in St. Louis · Research**  
-I transformed tabular mental-health data into image representations for convolutional neural networks and used explainable AI methods to investigate what influenced the models’ predictions.
+### 🚀 Things I've built
 
-**Istanbul Technical University Graduate School · Part-time**  
-I contributed to web, campus television, and AI projects at the graduate school.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Binghamton University · CS 210 Course Assistant**  
-I help students debug Java programs in labs and office hours. We trace execution together and work through how objects, method calls, and class hierarchies affect a program’s behavior.
+**🧬 BioSetLab Playground+**<br/>
+Plain English in, biomedical workflow out. A local LLM drafts the graph; my validator catches mistakes and sends them back for repair.<br/>
+`Ollama/Qwen` `Express` `Jest`
 
-## Selected projects
+</td>
+<td width="50%" valign="top">
 
-**BioSetLab Playground+ · LLM workflows and backend engineering**  
-A workflow builder for biomedical data analysis at the ITU Bioinformatics Lab. I worked on turning natural-language requests into workflow graphs using a local Qwen model served through Ollama. My contributions included Express API endpoints, graph validation, and a repair loop that feeds validation errors back to the model.
+**🚗 Real-Time Road Safety**<br/>
+Spots and tracks vehicles in live camera feeds, double-checks across frames, streams alerts over WebSocket.<br/>
+`YOLO` `OpenCV` `FastAPI`
 
-**Real-Time Road Safety · Computer vision · ITU Databees**  
-Our system detects and tracks vehicles in live camera feeds using YOLO and OpenCV. It checks detections across multiple frames before raising an alert and streams results to clients through a FastAPI WebSocket endpoint.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[Nuvio AI](https://github.com/kanikeliff/Mental-health-app) · Applied ML and iOS backend**  
-An iOS mental-health app that combines AI chat, structured check-ins, and mood trends. I built the FastAPI backend and the components for emotion inference and personalized recommendations.
+**💚 [Nuvio AI](https://github.com/kanikeliff/Mental-health-app)**<br/>
+iOS mental-health companion: AI chat, check-ins, mood trends. I built the backend and the emotion & recommendation engine.<br/>
+`FastAPI` `TensorFlow` `SwiftUI`
 
-**[Postcard](https://github.com/kanikeliff/postcard.com) · Full-stack · Solo project**  
-I built a web app for designing and sending digital postcards. I developed the React editor and inbox, integrated Supabase authentication and EmailJS delivery, and deployed the app on Netlify.
+</td>
+<td width="50%" valign="top">
 
-## Beyond code
+**💌 [Postcard](https://github.com/kanikeliff/postcard.com)**<br/>
+Design a postcard, send it by email, WhatsApp, or SMS. Solo, end to end.<br/>
+`React` `Supabase` `Netlify`
 
-I enjoy photography and graphic design, build interactive visuals in TouchDesigner, and experiment with 3D in Blender. I also captained an underwater rugby and hockey team for seven years and was part of a university snowboarding team. 🌊 🏂
+</td>
+</tr>
+</table>
+
+### 🌊 Beyond code
+
+📷 photography · 🎨 graphic design · ✨creative visuals <br/>
+🏉 7 years captaining an underwater rugby & hockey team · 🏂 university snowboard team
