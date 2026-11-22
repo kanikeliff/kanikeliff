@@ -1,8 +1,10 @@
 
 
-# Hey, I'm Elif 👋
+
 
 <img align="right" src="./assets/adult-flight.gif" width="245" alt="Flying lavender dragon">
+
+# Hey, I'm Elif 👋
 
 **Backend Engineering · Applied AI · Database Systems**
 
