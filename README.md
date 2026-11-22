@@ -1,36 +1,39 @@
 # Hi, I'm Elif 👋
- 
-Computer Science senior in the **Binghamton University – Istanbul Technical University dual-degree program** (May 2027).
-I build **backend services and AI-integrated systems**: REST APIs, workflow state machines, LLM-assisted pipelines, and real-time computer vision.
- 
-Open to **2027 new-grad Software Engineering and AI/ML roles** in the US.
- 
----
- 
-### What I'm working on
- 
-- **AI-integrated billing portal** (industry capstone with Mirabito Energy Products): Django REST Framework + PostgreSQL backend that moves fuel Bills of Lading through OCR, AI recommendations, and human review, with a 9-state record lifecycle and a retry-safe integration with an external AI service.
-- **Real-time road safety system** (ITU Databees): vehicle detection and tracking from live camera streams with YOLO and OpenCV, served through FastAPI and WebSocket.
-### Selected projects
- 
-| Project | What it is | My part | Stack |
-|---|---|---|---|
-| [**Nuvio AI**](https://github.com/kanikeliff/Mental-health-app) | Privacy-first iOS mental-health assistant: AI chat, PHQ-9 / WHO-5 / SCL-90 assessments, mood trends, encrypted reports | AI engine (emotion inference, recommendations, evaluation) and FastAPI backend | SwiftUI, FastAPI, TensorFlow, scikit-learn, Firebase |
-| [**Nuvie**](https://github.com/kanikeliff/Nuvie) | Social movie recommendation platform with friend-aware suggestions | AI layer: item-based CF model, feature pipeline, "why this movie?" explanations, offline metrics, CI | Python, FastAPI, PostgreSQL, Redis, Swift |
-| [**Postcard**](https://github.com/kanikeliff/postcard.com) | Web app to design and send postcards by email, WhatsApp, or SMS | Solo: auth, editor, inbox, deployment | React, Vite, Tailwind, Supabase, EmailJS, Netlify |
-| **InternPilot** | Job-search backend that imports postings and flags visa-sponsorship evidence, with a human approval step | Solo: FastAPI backend, Alembic migrations, 18 tests in CI, React frontend | Python, FastAPI, PostgreSQL, Docker, GitHub Actions |
-| **BioSetLab Playground+** | LLM-assisted no-code workflow builder for biomedical data analysis (ITU Bioinformatics Lab) | Natural-language → workflow generation with a local LLM, graph validation, self-repair loop, Express APIs | Ollama / Qwen, Node.js, Express, Jest, pytest |
- 
-### Tech
- 
-**Languages:** Python · Java · C++ · C · JavaScript / TypeScript · SQL · Swift
-**Backend:** Django REST Framework · FastAPI · Express · PostgreSQL · Redis · Docker · GitHub Actions
-**AI / ML:** PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO · LLM integration (Ollama, Llama) · explainable AI
- 
-### Elsewhere
- 
-- Course Assistant for CS 210 (Java) at Binghamton
-- Previously: AI intern at PortX (Llama 3.2 key-information extraction), research at Washington University in St. Louis (CNNs + explainable AI for mental-health data)
-- Captain of an underwater rugby & hockey team for seven years 🌊
-📫 [LinkedIn](https://www.linkedin.com/in/elifkanik101) · kanikelif10@gmail.com
- 
+
+**I build backends that hand work to AI models, and make sure a human still gets the final say.**
+
+CS senior in the Binghamton University × Istanbul Technical University dual-degree program (May 2027). Looking for **2027 new-grad SWE and AI/ML roles** in the US.
+
+[LinkedIn](https://www.linkedin.com/in/elifkanik101) · [Email](mailto:kanikelif10@gmail.com)
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,postgres,docker,react,swift,pytorch,tensorflow,opencv" />
+
+## Experience
+
+- **Mirabito Energy Products · Backend Intern.** Billing records move through a 9-state lifecycle that I enforce server-side, so no invoice gets approved out of order. I also wired in an external AI service with retries, so an outage never loses a record. *Django REST Framework, PostgreSQL*
+- **PortX · AI Intern.** Validated 1,200+ labeled documents and dug through failure cases to improve key-information extraction with Llama 3.2.
+- **Washington University in St. Louis · Research.** Turned tabular mental-health data into images so CNNs could learn from it, then used explainable AI to show clinicians *why* the model decided.
+- **ITU Graduate School · Part-time.** Web, campus TV, and AI projects for a 9,000-student graduate school.
+- **Binghamton · CS 210 Course Assistant.** I help students trace Java code line by line until the bug confesses.
+
+## Selected projects
+
+**Real-Time Road Safety** · *computer vision* · ITU Databees
+Spots and tracks vehicles in live camera feeds with YOLO + OpenCV. Multi-frame validation keeps one noisy frame from raising a false alarm, and results stream out over a FastAPI WebSocket.
+
+**[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)** · *applied ML + backend*
+Privacy-first iOS mental-health assistant: AI chat, PHQ-9 / WHO-5 / SCL-90 check-ins, mood trends, encrypted reports. It never diagnoses. I built the emotion-inference and recommendation engine and the FastAPI backend.
+
+**[Nuvie](https://github.com/kanikeliff/Nuvie)** · *recommendation systems*
+Movie recommendations that answer "why this one?". I built the AI layer: item-based collaborative filtering, the feature pipeline, offline evaluation, and the explanation generator.
+
+**[Postcard](https://github.com/kanikeliff/postcard.com)** · *full-stack, solo*
+Design a postcard and send it by email, WhatsApp, or SMS. Built end to end with React, Supabase auth, and EmailJS, deployed on Netlify.
+
+## Beyond code
+
+Photography, graphic design, interactive visuals in TouchDesigner, 3D in Blender.
+Seven years captaining an underwater rugby & hockey team, plus a university snowboard team. 🌊🏂
+
+<p align="center"><img src="assets/dragon.svg" alt="Pixel dragon that grows with my contribution streak" width="100%"/></p>
+<p align="center"><sub>This dragon grows with my contribution streak. Built with a small Python script and a daily GitHub Action.</sub></p>
