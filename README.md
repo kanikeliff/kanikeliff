@@ -1,3 +1,7 @@
+<!-- elif-dragon:start -->
+<img src="assets/dragon.gif" width="420" alt="A pixel dragon growing with my GitHub activity"><br>
+<img src="assets/calendar.svg" width="420" alt="GitHub contributions over the last 30 weeks">
+<!-- elif-dragon:end -->
 
 # Hey, I'm Elif 👋
 
@@ -53,7 +57,3 @@ Computer Science @ Binghamton University × Istanbul Technical University
 ---
 
 <p align="center"><a href="https://www.linkedin.com/in/elifkanik101">LinkedIn</a> · <a href="mailto:kanikelif10@gmail.com">Email</a></p>
-<!-- elif-dragon:start -->
-<img src="assets/dragon.gif" width="420" alt="A pixel dragon growing with my GitHub activity">
-<!-- elif-dragon:end -->
-
