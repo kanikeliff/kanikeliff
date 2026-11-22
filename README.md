@@ -63,6 +63,14 @@ Design a postcard, send it by email, WhatsApp, or SMS. Solo, end to end.<br/>
 </tr>
 </table>
 
+<!-- elif-dragon:start -->
+## Contribution streak
+
+**1-day contribution streak** · Hatchling · Next stage at 7 days
+
+![My dragon above the clouds](assets/dragon.gif)
+<!-- elif-dragon:end -->
+
 ### 🌊 Beyond code
 
 📷 photography · 🎨 graphic design · ✨creative visuals <br/>
