@@ -1,6 +1,8 @@
-<img align="right" src="assets/adult-flight.gif" width="360" alt="Lavender dragon gliding closer and away across a night sky">
+
 
 # Hey, I'm Elif 👋
+
+<img align="right" src="./assets/adult-flight.gif" width="245" alt="Flying lavender dragon">
 
 **Backend Engineering · Applied AI · Database Systems**
 
