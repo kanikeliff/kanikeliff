@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="./assets/adult-flight.gif" width="245" alt="Flying lavender dragon">
+<img align="right" src="./assets/adult-flight.gif" width="320" alt="Flying lavender dragon">
 
 # Hey, I'm Elif 👋
 
