@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,postgres,docker,react,swift,pytorch,tensorflow,opencv&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,postgres,docker,react,pytorch,tensorflow,opencv&perline=12"/>
 </p>
 
 ---
