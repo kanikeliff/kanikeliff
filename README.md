@@ -1,9 +1,7 @@
-
-<img align="right" src="./assets/adult-flight.gif" width="320" alt="Flying lavender dragon">
-
-# Hey, I'm Elif 👋
+### Hey, I'm Elif
 
 **Backend Engineering · Applied AI · Database Systems**
+<img align="right" src="./assets/adult-flight.gif" width="420" alt="Flying lavender dragon">
 
 Computer Science @ Binghamton University × Istanbul Technical University
 
