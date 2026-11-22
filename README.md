@@ -21,11 +21,10 @@
 
 | | |
 |---|---|
-| ⛽ **Mirabito Energy Products** · Backend Intern | Nine-state billing workflow + retry-safe AI integration · `Django REST` `PostgreSQL` |
-| 📦 **PortX** · AI Intern | 1,200+ documents validated for Llama 3.2 information extraction |
-| 🧠 **WashU St. Louis** · Research | Tabular data → images for CNNs, explainable AI on the results |
-| 🎓 **ITU Graduate School** · Part-time | Web, campus TV, and AI projects |
-| ☕ **Binghamton** · CS 210 Course Assistant | Helping students trace Java until the bug confesses |
+|  **Mirabito Energy Products** · Backend Intern | Nine-state billing workflow + retry-safe AI integration · `Django REST` `PostgreSQL` |
+|  **PortX** · AI Intern | 1,200+ documents validated for Llama 3.2 information extraction |
+|  **WashU St. Louis** · Research | Tabular data → images for CNNs, explainable AI on the results |
+|  **ITU Graduate School** · Part-time | Web, campus TV, and AI projects |
 
 ### 🚀 Things I've built
 
@@ -40,7 +39,7 @@ Plain English in, biomedical workflow out. A local LLM drafts the graph; my vali
 </td>
 <td width="50%" valign="top">
 
-**🚗 Real-Time Road Safety**<br/>
+**Real-Time Road Safety**<br/>
 Spots and tracks vehicles in live camera feeds, double-checks across frames, streams alerts over WebSocket.<br/>
 `YOLO` `OpenCV` `FastAPI`
 
@@ -49,7 +48,7 @@ Spots and tracks vehicles in live camera feeds, double-checks across frames, str
 <tr>
 <td width="50%" valign="top">
 
-**💚 [Nuvio AI](https://github.com/kanikeliff/Mental-health-app)**<br/>
+**[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)**<br/>
 iOS mental-health companion: AI chat, check-ins, mood trends. I built the backend and the emotion & recommendation engine.<br/>
 `FastAPI` `TensorFlow` `SwiftUI`
 
