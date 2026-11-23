@@ -8,14 +8,15 @@
 
 Computer Science · Binghamton University × Istanbul Technical University
 
-*I build backend systems and applied AI features, from training and evaluating models to making their results useful in real workflows.*
 
-### About me
+*I build backend systems and train and evaluate machine learning models, then bring their results into workflows people can review and trust.*
 
-I work with Python, Django REST Framework, and PostgreSQL to build APIs and data workflows. At Mirabito, I built backend and database components for a wholesale billing portal. I worked on the workflow from document extraction through AI recommendations and human review, including data models, state transitions, and retry-safe service integration.
+### A little about me
 
-I also work directly with models. For Nuvio AI, I developed emotion analysis and recommendation features for an iOS mental health app. At PortX, I validated more than 1,200 examples for document information extraction. My research at Washington University in St. Louis explored turning tabular data into images for CNNs and examining their predictions with explainability methods.
-
+- 🛠️ Build APIs and data workflows with **Python, Django REST Framework, and PostgreSQL**.
+- 🧠 Train and evaluate **machine learning models**, and examine where their predictions go wrong.
+- 🔍 Validate **AI-generated outputs**, from extracted document data to biomedical workflow graphs.
+- 👥 Connect AI recommendations to **human review**, with clear state transitions and recorded decisions.
 ### Tech toolbox
 
 **Languages**
