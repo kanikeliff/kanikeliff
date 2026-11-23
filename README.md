@@ -46,9 +46,9 @@ I also work directly with models. For Nuvio AI, I developed emotion analysis and
 ### Experience
 
 - **Mirabito Energy Products** · Backend Intern · Built backend and database components for a wholesale billing portal, including data models, state transitions, and retry-safe AI service integration.
-- **PortX** · AI Intern · Validated more than 1,200 examples for document information extraction.
-- **Washington University in St. Louis** · Research Contributor · Explored tabular-to-image methods for CNNs and explainability of model predictions.
-- **ITU Graduate School** · Part-time · Contributed to web, campus television, and AI projects.
+- **PortX** · AI Intern · Validated more than 1,200 labeled documents for a Llama 3.2 information extraction project, checking whether the extracted fields matched the source documents and documenting errors for improvement.
+- **Washington University in St. Louis** · Research Contributor · Explored ways to turn tabular data into images for CNN classification and used explainability methods to examine which parts of those images influenced predictions.
+- **ITU Graduate School** · Part-time · Contributed to the graduate school's web and campus television work, as well as AI projects. Worked across development and visual production.
 
 ### Beyond code
 
