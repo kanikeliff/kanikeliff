@@ -41,7 +41,7 @@ Computer Science @ Binghamton University
 
 ### Selected work
 
-- **BioSetLab Playground+** · A local Qwen model turns a researcher's request into a biomedical workflow graph. I built validation and repair logic that checks the generated steps and returns errors for revision. `Ollama` `Qwen` `Express` `Jest`
+- **[BioSetLab Playground+](https://github.com/Berkayaydinn/biosetlab-workbench)** · A local Qwen model turns a researcher's request into a biomedical workflow graph. I built validation and repair logic that checks the generated steps and returns errors for revision. `Ollama` `Qwen` `Express` `Jest`
 - **[Real-Time Road Safety](https://github.com/kanikeliff/road-safety-ftr)** · Detects and tracks vehicles in live video, checks detections across frames, and streams alerts over WebSocket. `YOLO` `OpenCV` `FastAPI`
 - **[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)** · An iOS mental health companion with mood check-ins and AI features. I worked on the backend, emotion analysis, and recommendations. `FastAPI` `TensorFlow` `SwiftUI`
 - **[Postcard](https://github.com/kanikeliff/postcard.com)** · A postcard editor and sharing app I built end to end. Users can design a card and share it by email, WhatsApp, or SMS. `React` `Supabase` `Netlify`
