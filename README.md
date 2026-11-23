@@ -6,7 +6,7 @@
 <img align="right" src="./assets/adult-flight.gif" width="420" alt="Flying lavender dragon">
 
 
-Computer Science · Binghamton University × Istanbul Technical University
+Computer Science @ Binghamton University
 
 
 *I build backend systems and train and evaluate machine learning models, then bring their results into workflows people can review and trust.*
